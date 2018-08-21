@@ -7,7 +7,7 @@ An example [Hapi.js](https://hapijs.com/) app with https://github.com/hapijs/lab
 Install dependencies:
 
 ```
-npm install
+npm installdasdasdasd
 ```
 
 Run with 
